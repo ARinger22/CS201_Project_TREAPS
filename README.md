@@ -1,4 +1,4 @@
-# Treaps
+# CS201_Project_Treaps
 
 The code can be easily run using the terminal in Ubuntu, or using any IDE like VS Code.
 Firstly one needs to input the first element of treap, to form the root and beginning of the tree. Further you have choice as to which function you want to implement.
